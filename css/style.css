@@ -792,10 +792,11 @@ img{
 	text-align: center;
 	overflow: hidden;
 	z-index: 1;
-	padding: 120px 0;
+	padding: 200px 0;
 	background-repeat: no-repeat;
 	background-position: center bottom;
 	background-size: cover;
+	/* margin-top: 300px; */
 }
 
 .page-title h1{
