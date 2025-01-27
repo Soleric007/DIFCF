@@ -173,6 +173,7 @@ p,.text{
 	max-width:1200px;
 	padding:0px 15px;
 	margin:0 auto;
+	
 }
 
 .large-container{
@@ -4269,6 +4270,10 @@ video {
 
 .speaker-detail .info-column .inner-column{
 	position: relative;
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+	
 }
 
 .speaker-detail .info-column h1{
